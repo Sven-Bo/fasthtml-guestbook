@@ -11,7 +11,7 @@ A simple, real-time guestbook application built with:
 
 ## Inspiration
 
-This project was inspired by [Matt's Guestbook](https://github.com/mattppal/fasthtml-guestbook/tree/main), and aims to provide a simple example of how to build and deploy a guestbook using FastHTML and HTMX.
+This project was inspired by [Matt's Guestbook](https://github.com/mattppal/fasthtml-guestbook/tree/main). Thanks, Matt! 🙏
 
 ## Video Tutorial (Coming soon!)
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
