@@ -7,7 +7,7 @@ A simple, real-time guestbook application built with:
 
 👋 Say hi: [https://guestbook.pythonandvba.com](https://guestbook.pythonandvba.com)
 
-![Website Demo](assets/demo.png)
+![Website Demo](assets/demo.gif)
 
 ## Inspiration
 
