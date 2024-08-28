@@ -7,6 +7,9 @@ A simple, real-time guestbook application built with:
 
 👋 Say hi: [https://guestbook.pythonandvba.com](https://guestbook.pythonandvba.com)
 
+This project uses Google Sheets as the "database".
+I also created the same project with a supabase. You can check it out here: https://github.com/Sven-Bo/fasthtml-guestbook-supabase
+
 ![Website Demo](assets/demo.gif)
 
 ## Inspiration
