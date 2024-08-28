@@ -40,6 +40,8 @@ def add_message(name, message):
 
 def get_messages():
     records = sheet.get_all_records()
+    df = pd.DataFrame.from_records(records)
+    df["Timestamp"] = pd.to_datetime(df["Timestamp"], format=TIMESTAMP_FMT)
     return pd.DataFrame.from_records(records)
 
 
