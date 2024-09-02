@@ -16,9 +16,6 @@ I also created the same project with a supabase. You can check it out here: http
 
 This project was inspired by [Matt's Guestbook](https://github.com/mattppal/fasthtml-guestbook/tree/main). Thanks, Matt! 🙏
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
-
 ## Setup
 
 ### Prerequisites
