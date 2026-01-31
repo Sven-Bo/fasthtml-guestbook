@@ -1,4 +1,5 @@
 gspread
 pandas
 python_fasthtml
+sqlite-minutils
 pytz
